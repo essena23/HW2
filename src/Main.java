@@ -61,7 +61,7 @@ if (occupancy > seats && occupancy <= capacity) {
     System.out.println("В вагоне есть стоячие места");
 }
 else {
-    System.out.println("Вагон уже забит полностью");
+    System.out.println("Вагон уже забит полностью!");
 }
 
 int one = 36;
